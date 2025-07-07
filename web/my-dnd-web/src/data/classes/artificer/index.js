@@ -1,9 +1,9 @@
 import alchemist from './alchemist';
 import armorer from './armorer';
-import battleSmith from '/battle_smith';
-import fleshcrafter from '/fleshcrafter';
-import gunslinger from '/gunslinger';
-import scrapwright from '/scrapwright';
+import battleSmith from './battle_smith';
+import fleshcrafter from './fleshcrafter';
+import gunslinger from './gunslinger';
+import scrapwright from './scrapwright';
 
 const artificer = {
   slug: 'artificer',
